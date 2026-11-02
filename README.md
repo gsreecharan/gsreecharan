@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm G. Sree Charan 👋
 
-<!--
-**gsreecharan/gsreecharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer | MERN Stack | AI Integrations
 
-Here are some ideas to get you started:
+I build and ship production-ready web applications, focusing on clean REST APIs, secure authentication, and scalable database architectures. I prioritize writing optimized code and deploying real-world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Database:** MongoDB, Mongoose
+- **Core:** Java, Data Structures & Algorithms, Git/GitHub
+
+### 🛠️ Featured Projects
+
+- **[Wanderlust](https://airbnb-gfxe.onrender.com)** — Full-Stack MVC Booking Platform with Node.js, Express, MongoDB, and Mapbox/Cloudinary API integrations.
+- **[AI-GPT](https://github.com/gsreecharan/ai-gpt)** — AI-Powered React chat interface communicating with a custom local Express backend.
+- **[React Weather Dashboard](https://react-weather-dashboard-swart.vercel.app)** — Responsive SPA consuming live REST endpoints using React Hooks.
+
+### 📫 Let's Connect
+
+- **LinkedIn:** linkedin.com/in/gsreecharan 
+- **Email:** sreecharanganjai@gmail.com
